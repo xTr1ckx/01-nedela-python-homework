@@ -93,3 +93,4 @@ elif conversion == "4":
 
 else:
         print("Nepareiza izvēle! Izvēlieties skaitli no 1 līdz 4.")
+
